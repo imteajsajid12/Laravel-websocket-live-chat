@@ -2,8 +2,8 @@
 
 @section('content')
     <div class="container">
-    {{--<Chat></Chat>--}}
-    <uplode></uplode>
+    <Chat></Chat>
+    {{--<uplode></uplode>--}}
          {{-- <example-component></example-component> --}}
         {{-- <div class="row justify-content-center">
             <div class="col-md-8">
